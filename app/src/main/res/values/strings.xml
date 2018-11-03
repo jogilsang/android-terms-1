@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">begginer</string>
+
+
+    <string name="message_yes">예</string>
+    <string name="message_no">아니오</string>
+    <string name="message_look">보기</string>
+    <string name="message_confirm">확 인</string>
+    <string name="message_cancel">취 소</string>
+
+    <!-- 약관 주소-->
+    <!--전체동의-->
+    <string name="url_terms_1">https://www.naver.com</string>
+    <!--이용약관동의(필수)-->
+    <string name="url_terms_2">https://www.naver.com</string>
+    <!--개인정보취급방침(동의)(필수)-->
+    <string name="url_terms_3">https://www.naver.com</string>
+    <!--위치기반 서비스 약관(필수)-->
+    <string name="url_terms_4">https://www.naver.com</string>
+
+    <!-- 약관 메세지-->
+    <!--전체동의-->
+    <string name="button_terms_1">전체동의</string>
+    <!--이용약관동의(필수)-->
+    <string name="button_terms_2">이용약관 동의(필수)</string>
+    <!--개인정보취급방침(동의)(필수)-->
+    <string name="button_terms_3">개인정보취급방침 동의(필수)</string>
+    <!--위치기반 서비스 약관(필수)-->
+    <string name="button_terms_4">위치기반 서비스약관(필수)</string>
+
+    <string name="terms_agree_1_needed">Terms of use agreement is required :)</string>
+    <string name="terms_agree_2_needed">Personal information processing\npolicy agreement is required.</string>
+
+    <string name="terms_detail_button">View Details</string>
+
+    <string name="action_exit_question">Do you really want to quit?</string>
+    <string name="action_logout_question">Are you sure you want to sign out?</string>
+
+</resources>
